@@ -1,0 +1,18 @@
+{
+    "name": "Jbruening.Mvvm.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:922ef939fc93c704a86244f5628b8a11"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

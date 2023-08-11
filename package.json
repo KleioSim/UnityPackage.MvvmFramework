@@ -1,0 +1,23 @@
+{
+  "name": "com.jbruening.mvvm",
+  "version": "0.1.0",
+  "displayName": "Mvvm Framework",
+  "description": "",
+  "unity": "2022.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "keywords": [],
+  "author": {
+    "name": "jbruening",
+    "email": ""
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Samples",
+      "path": "Samples"
+    }
+  ],
+  "dependencies": {
+  }
+}
