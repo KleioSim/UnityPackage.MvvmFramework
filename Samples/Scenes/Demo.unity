@@ -1180,7 +1180,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a27c67ede30e2b4da4fff317aaaf311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: ChildViewModel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _type: ChildViewModel, Jbruening.Mvvm.Samples, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   _propertyBinding:
     Component: {fileID: 0}
     Property: 
@@ -1828,7 +1829,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a27c67ede30e2b4da4fff317aaaf311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: ChildViewModel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _type: ChildViewModel, Jbruening.Mvvm.Samples, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   _propertyBinding:
     Component: {fileID: 0}
     Property: 
@@ -2293,7 +2295,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a27c67ede30e2b4da4fff317aaaf311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: ChildViewModel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _type: ChildViewModel, Jbruening.Mvvm.Samples, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   _propertyBinding:
     Component: {fileID: 739114849}
     Property: Selected
@@ -6019,7 +6022,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a27c67ede30e2b4da4fff317aaaf311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _type: ChildViewModel, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  _type: ChildViewModel, Jbruening.Mvvm.Samples, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
   _propertyBinding:
     Component: {fileID: 0}
     Property: 
