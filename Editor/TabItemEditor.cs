@@ -29,7 +29,7 @@ namespace uguimvvm.Editor
 
     static class TabControlHelper
     {
-        [MenuItem("GameObject/UI/Tabs/Tabs")]
+        //[MenuItem("GameObject/UI/Tabs/Tabs")]
         static void AddTabs(MenuCommand menuCommand)
         {
             var panel = DefaultControls.CreatePanel(GetStandardResources());
@@ -51,7 +51,7 @@ namespace uguimvvm.Editor
             //AnchorZero(panel);
         }
 
-        [MenuItem("GameObject/UI/Tabs/Tab")]
+        //[MenuItem("GameObject/UI/Tabs/Tab")]
         static void AddTab(MenuCommand menuCommand)
         {
             var context = menuCommand.context as GameObject;
